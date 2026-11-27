@@ -96,7 +96,7 @@ Resultado:
 
 ### Evidencia
 
-![Paso 2](img/imagen02.png)
+![Paso 2](imagen02.png)
 
 ---
 
@@ -116,7 +116,7 @@ SHOW DATABASES;
 
 ### Evidencia
 
-![Paso 3](img/imagen03.png)
+![Paso 3](imagen03.png)
 
 ---
 
@@ -130,7 +130,7 @@ mariadb -u root -p < tienda_backup.sql
 
 ### Evidencia
 
-![Paso 4](img/imagen04.png)
+![Paso 4](imagen04.png)
 
 ---
 
@@ -154,7 +154,7 @@ Sofia Diaz
 
 ### Evidencia
 
-![Paso 5](img/imagen05.png)
+![Paso 5](imagen05.png)
 
 ---
 
@@ -182,7 +182,7 @@ log_bin = ON
 
 ### Evidencia
 
-![Paso 6](img/imagen06.png)
+![Paso 6](imagen06.png)
 
 ---
 
@@ -210,7 +210,7 @@ MASTER_LOG_POS=389;
 
 ### Evidencia
 
-![Paso 7](img/imagen07.png)
+![Paso 7](imagen07.png)
 
 ---
 
@@ -252,7 +252,7 @@ Resultado:
 
 *## Evidencia
 
-![Paso 8](img/imagen*8.png)
+![Paso 8](imagen08.png)
 
 ---
 
@@ -278,7 +278,7 @@ Resultado:
 
 ### Evidencia
 
-![Paso 9](img/imagen09.png)
+![Paso 9](imagen09.png)
 
 ---
 
@@ -294,7 +294,7 @@ En este punto únicamente se recuperan los cinco registros originales.
 
 ### Evidencia
 
-![Paso 10](img/imagen10.png)
+![Paso 10](imagen10.png)
 
 ---
 
@@ -326,7 +326,7 @@ mariadb-bin.000029
 
 ### Evidencia
 
-![Paso 11](img/imagen11.png)
+![Paso 11](imagen11.png)
 
 ---
 
@@ -345,7 +345,7 @@ Con este procedimiento se reaplicaron únicamente los cambios válidos posterior
 
 ### Evidencia
 
-![Paso 12](img/imagen12.png)
+![Paso 12](imagen12.png)
 
 ---
 
@@ -371,7 +371,7 @@ Laura Vega
 
 ### Evidencia
 
-![Paso 13](img/imagen13.png)
+![Paso 13](imagen13.png)
 
 ---
 
