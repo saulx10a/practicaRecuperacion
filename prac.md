@@ -70,7 +70,7 @@ COUNT(*)
 
 ### Evidencia
 
-![Paso 1](img/imagen01.png)
+![Paso 1](imagen01.png)
 
 ---
 
